@@ -14,7 +14,7 @@ Release Notes.
 
 
 #### OAP-Backend
-
+* Add a new concept "Event" and its implementations to collect events.
 
 #### UI
 
